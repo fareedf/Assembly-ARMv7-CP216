@@ -1,0 +1,13 @@
+-------------------------------------------------------
+answers.txt
+-------------------------------------------------------
+Author: Fareed Farooq
+ID: 169026867     
+Email: faro6867@mylaurier.ca  
+Date: 2024-03-09    
+-------------------------------------------------------
+Answers for Lab 3
+-------------------------------------------------------
+
+Task 2
+When I changed the contents of r4 within the subroutine body without preserving, I got the function clobbered register error

@@ -1,0 +1,39 @@
+-------------------------------------------------------
+answers.txt
+-------------------------------------------------------
+Author: Fareed Farooq
+ID: 169026867      
+Email: faro6867@mylaurier.ca 
+Date: 2024-02-03
+-------------------------------------------------------
+Answers for Lab 2
+-------------------------------------------------------
+
+Task 1
+
+- "ldr r3, A;" should be "ldr r3, =A"
+
+- In the "ldr r3, B:" line, there is a colon ":" after B which is incorrect syntax. It should be "ldr r3, B"
+- Also it should be "=B" because we are loading an immediate value
+
+- In the "add r2, r1, [r0]" line, the correct syntax is "add r2, r1, r0"
+
+Task 2
+
+- Both lines with "str r2, r3" should be "str r2, [r3]"
+
+- The line with "ldr r3, =Difff" has a typo and should be "ldr r3, =Diff"
+
+- The line with "Diff: .space 2" should be 4 according to the comment and should be changed to "Diff: .space 4"
+
+Task 3
+
+- In the third copy (line 33), the line with "str r2, [r2]" is incorrect and should be "str r2, [r1]"
+
+- Fixed third comment to "Copy contents of third element of Vec1 to Vec2
+
+- Under Vec2 Line 43 should be ".space 6"
+
+- In the third copy (line 30 - 31), we are incrementing r1 twice. line 30 should be "r0, r0, #4"
+
+- For line 25 and 26, increment by #4 not #2

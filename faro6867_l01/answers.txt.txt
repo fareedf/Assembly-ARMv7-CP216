@@ -1,0 +1,23 @@
+-------------------------------------------------------
+answers.txt
+-------------------------------------------------------
+Author: Fareed Farooq
+ID: 169026867
+Email: faro6867@mylaurier.ca
+Date: 2024-01-25   
+-------------------------------------------------------
+Answers for Lab 1
+-------------------------------------------------------
+
+Task 1
+
+No the behaviour does not change in any way.
+
+Task 2
+
+Yes it is legal to do this.
+
+Task 3
+
+No it is not legal to do this with immediate values 4 and 5. After changing the middle operand to a register, it works.
+

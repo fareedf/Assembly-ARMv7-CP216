@@ -1,0 +1,12 @@
+-------------------------------------------------------
+answers.txt
+-------------------------------------------------------
+Author: Fareed Farooq
+ID: 169026867      
+Email: faro6867@mylaurier.ca
+Date: 2024-03-02  
+-------------------------------------------------------
+Answers for Lab 3
+-------------------------------------------------------
+Task 2
+You can subtract addresses or use MUL operator with the count or length of the list to compute the total bytes 

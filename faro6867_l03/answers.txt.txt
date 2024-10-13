@@ -1,0 +1,23 @@
+-------------------------------------------------------
+answers.txt
+-------------------------------------------------------
+Author: Fareed Farooq
+ID: 169026867  
+Email: faro6867@mylaurier.ca
+Date: 2024-02-10
+-------------------------------------------------------
+Answers for Lab 3
+-------------------------------------------------------
+
+Task 1
+
+The value in r3 is -1 in signed decimal and FFFFFFFF (-1) in hexadecimal.
+
+Task 2
+
+The Address of COUNTER is 00001018
+
+Task 3
+
+LED Lights are a lot slower than before.
+
